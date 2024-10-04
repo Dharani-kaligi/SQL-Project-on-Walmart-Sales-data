@@ -112,6 +112,14 @@ This project analyzes Walmart sales data using SQL to derive insights into sales
     ```
 
 
+## Contact Information
+
+For inquiries, collaboration opportunities, or support, please reach out:
+
+- **Email**: dharanikaligi0638@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/dharani-kaligi-6b2338279/
+
+
     
     
 
